@@ -9,3 +9,7 @@ million in 2000 to 19.3 million in 2020 [1]. Today, one in 5 people worldwide wi
 lifetime. Projections suggest that the number of people being diagnosed with cancer will increase still further in the
 coming years, and will be nearly 50% higher in 2040 than in 2020. The number of cancer deaths has also increased,
 from 6.2 million in 2000 to 10 million in 2020. More than one in six deaths is due to cancer.
+
+Our goal is to detect cancer cells from Breast Scan Images.
+After detecting we are locating tumour.
+We are extracting coordinates of tumour and storing it in CSV file.
